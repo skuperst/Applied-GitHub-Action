@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 1f8e873d74a3d56169bf1a6d689b096318a8c554 Krish Naik <krishnaik06@gmail.com> 1725263240 +0530	commit (initial): first commit
+1f8e873d74a3d56169bf1a6d689b096318a8c554 0000000000000000000000000000000000000000 Krish Naik <krishnaik06@gmail.com> 1725263249 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 1f8e873d74a3d56169bf1a6d689b096318a8c554 Krish Naik <krishnaik06@gmail.com> 1725263249 +0530	Branch: renamed refs/heads/master to refs/heads/main
+1f8e873d74a3d56169bf1a6d689b096318a8c554 61e005791aae4450dc7d1ae889114240fa906804 Krish Naik <krishnaik06@gmail.com> 1725263775 +0530	commit: Unit test case updated
+61e005791aae4450dc7d1ae889114240fa906804 3c88eb096e3c5551ef30af25a1c1e86680e01be0 Krish Naik <krishnaik06@gmail.com> 1725267235 +0530	commit: Generate read me file code
+3c88eb096e3c5551ef30af25a1c1e86680e01be0 ebea4de005d18927f04b6d0fc53ed1993d9d4dc9 Krish Naik <krishnaik06@gmail.com> 1725267594 +0530	commit: Final changes
+ebea4de005d18927f04b6d0fc53ed1993d9d4dc9 2bc49ecc84d6a123566ce18f851e7d87e8d554a8 Krish Naik <krishnaik06@gmail.com> 1725267650 +0530	commit (merge): final changes with readme file
+2bc49ecc84d6a123566ce18f851e7d87e8d554a8 4d347cdf04e17c01fc4d5cae2a613b05b4b9f9a9 Krish Naik <krishnaik06@gmail.com> 1725268214 +0530	commit: Updated changes
+4d347cdf04e17c01fc4d5cae2a613b05b4b9f9a9 b374cbd5926fefa98a2c0df18d5b979f8cf46b9e Krish Naik <krishnaik06@gmail.com> 1725268231 +0530	pull: Merge made by the 'recursive' strategy.
+b374cbd5926fefa98a2c0df18d5b979f8cf46b9e b84e335abe29bc8657b733bef044bf36732cae65 Krish Naik <krishnaik06@gmail.com> 1725268329 +0530	commit: Commiting the changes
